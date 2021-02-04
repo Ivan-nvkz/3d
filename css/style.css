@@ -5,8 +5,7 @@
 }
 
 .image-block{
-	width: 80%;
-	height: 80%;
+	
 	display: inline-flex;
 	flex-direction: column;
 }
